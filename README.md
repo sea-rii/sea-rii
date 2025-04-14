@@ -27,8 +27,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/sea-rii/sea-rii/output/github-snake.svg" />
 </picture>
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 
