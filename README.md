@@ -16,7 +16,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sea-rii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sea-rii&amp;locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false"
+    height="150"
+    alt="languages graph"
+  />
 </div>
 
 ###
